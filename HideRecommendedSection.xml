@@ -1,0 +1,10 @@
+Nom          :       HideRecommendedSection
+
+Description  :       Non configuré
+
+OMA-URI      :      ./Device/Vendor/MSFT/Policy/Config/Start/HideRecommendedSection
+
+Type de données   :   Entier
+
+Valeur          :    1
+
