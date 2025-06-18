@@ -9,15 +9,13 @@
     <defaultlayout:TaskbarLayout>
         <taskbar:TaskbarPinList>
 
-        	<taskbar:DesktopApp DesktopApplicationID=" Microsoft.Windows.Explorer"/>
+        		<taskbar:DesktopApp DesktopApplicationID=" Microsoft.Windows.Explorer"/>
 
-        	<taskbar:DesktopApp DesktopApplicationID=" {6D809377-6AF0-444B-8957-A3773F02200E}\Mozilla Firefox.exe"/>
+        		<taskbar:DesktopApp DesktopApplicationID=" {6D809377-6AF0-444B-8957-A3773F02200E}\Mozilla Firefox.exe"/>
 			<taskbar:DesktopApp DesktopApplicationID="Chrome"/>
 
 			<taskbar:UWA AppUserModelID=="MSTeams_8wekyb3d8bbwe!MSTeamse"/>
 
-		
-		
 			<taskbar:DesktopApp DesktopApplicationID="Microsoft.Office.OUTLOOK.EXE.15"/>
 			<taskbar:DesktopApp DesktopApplicationID="Microsoft.Office.WINWORD.EXE.15"/>
 			<taskbar:DesktopApp DesktopApplicationID="Microsoft.Office.EXCEL.EXE.15"/>
@@ -36,15 +34,6 @@
 			<taskbar:DesktopApp DesktopApplicationID="{6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe"/>
 
 			
-
-			<taskbar:DesktopApp DesktopApplicationID="{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Sage 50\Sage50Accounting.exe"/>
-
-
-		
-
-
-		<taskbar:DesktopApp DesktopApplicationID=" {6D809377-6AF0-444B-8957-A3773F02200E}\Mozilla Firefox.exe"/>
-
         <taskbar:UWA AppUserModelID="Microsoft.MicrosoftLoop_8wekyb3d8bbwe!App" />
         <taskbar:UWA AppUserModelID="MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe!App" />
       </taskbar:TaskbarPinList>
