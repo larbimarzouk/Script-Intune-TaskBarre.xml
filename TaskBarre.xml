@@ -28,6 +28,8 @@
 
 			<taskbar:DesktopApp DesktopApplicationID="{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Progiciel\CES.View.exe"/>
 			<taskbar:DesktopApp DesktopApplicationID="{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Sage 50\Sage50Accounting.exe"/>
+			<taskbar:DesktopApp DesktopApplicationID="C:\Fortune\Acomba.exe"/>
+			C:\Fortune\Acomba.exe
 
 			<taskbar:DesktopApp DesktopApplicationID="{6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe Photoshop 2025\Photoshop.exe"/>
 			<taskbar:DesktopApp DesktopApplicationID="{6D809377-6AF0-444B-8957-A3773F02200E}\Adobe\Adobe InDesign 2025\InDesign.exe"/>
